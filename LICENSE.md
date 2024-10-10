@@ -1,12 +1,10 @@
 Definitions: [
 
-  "You" = shall mean an individual or Legal Entity exercising permissions granted by this License.
+  "You" = an individual or a legal entity following the terms and conditions of this Licence.
   
-  "Source" = form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.
+  "Product" = the work of authorship, whether in source or modified form.
   
-  "Product" = shall mean the work of authorship, whether in Source or modified form.
-  
-  "Author" = shall mean the creator of Product.
+  "Author" = the creator of Product.
   
 ]
 

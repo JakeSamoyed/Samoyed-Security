@@ -4,7 +4,7 @@ It has basic security features: [
 
 Cancel any downloads then show the file that was about to be downloaded. <Soon 
 
-Close websites that are blacklisted by the user then notify the user with the URL.
+Close websites that are blacklisted by the user then notify the user with the URL. <Improving to be more user-friendly
 
 more in the future]
 

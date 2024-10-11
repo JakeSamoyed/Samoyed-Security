@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Blacklister",
-  "version": "1.0",
-  "description": "Name any site on this extension for it to automatically close.",
+  "name": "Samoyed Security",
+  "version": "0.7",
+  "description": "Basic security plugin",
   "permissions": ["tabs", "activeTab"],
   "background": {
     "service_worker": "background.js"

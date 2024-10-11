@@ -2,7 +2,7 @@ Personal project, my first chrome extension.
 
 It has basic security features: [
 
-Cancel any downloads then show the file that was about to be downloaded. 
+Cancel any downloads then show the file that was about to be downloaded. <Soon 
 
 Close websites that are blacklisted by the user then notify the user with the URL.
 

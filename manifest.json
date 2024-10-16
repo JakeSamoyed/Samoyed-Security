@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Samoyed Security",
-  "version": "0.7",
+  "version": "0.8",
   "description": "Basic security plugin",
   "permissions": ["tabs", "activeTab"],
   "background": {

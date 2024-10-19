@@ -1,10 +1,27 @@
 {
   "manifest_version": 3,
   "name": "Samoyed Security",
-  "version": "0.8",
+  "version": "1.4.88",
+  "author": "Jake Samoyed",
   "description": "Basic security plugin",
-  "permissions": ["tabs", "activeTab"],
+  "permissions": ["tabs", "activeTab", "downloads", "notifications", "storage"],
   "background": {
-    "service_worker": "background.js"
+    "service_worker": "JS/background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/icon-16.png",
+      "32": "images/icon-32.png",
+      "38": "images/icon-38.png",
+      "48": "images/icon-48.png",
+      "64": "images/icon-64.png",
+      "128": "images/icon-128.png"
+    }
+  },
+  "icons": {
+    "16": "images/icon-16.png",
+    "48": "images/icon-48.png",
+    "128": "images/icon-128.png"
   }
 }

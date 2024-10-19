@@ -1,1 +1,76 @@
-<!--WIP-->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blacklister</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+
+    <header>
+      <div>
+        <h1 id="headerText">Samoyed's</h1>
+        <h2 id="headerText2">Blocker</h2>
+      </div>
+    </header>
+    
+    <hr>
+
+    <div>
+      <h1 id="dbHeader">Download Blocker</h1>
+      <div>
+        <button id="dbActivate">Activate</button>
+        <button id="dbDisable">Disabled</button>
+        <script src="JS/dblocker.js"></script>
+      </div>
+    </div>
+    <hr id="dbHR">
+    <br>
+    <br>
+
+    <br>
+
+    <div id="BlacklistDIV">
+      <h2 id="listHeader">Blacklister</h2>
+    <div>
+      <form>
+        <label for="link" style="color: aliceblue;">Type the URL:</label>
+        <input type="url" id="link" placeholder="example.com">
+        <br>
+        <input type="submit" id="submitter" value="Blacklist">
+        <br>
+        <p id="error"></p>
+      </form>
+    </div>
+    <div>
+      <h3>(Click a Link below to Whitelist)</h3>
+
+      <ul id="Blacklisted">
+        <li class="blackURLs">example.com</li>
+      </ul>
+
+    </div>
+    </div>
+
+    <hr>
+
+    <footer>
+      <div>
+        <a href="https://github.com/JakeSamoyed"
+        target="_blank" id="a1">
+          <img src="images/github.png" height="24">
+        </a>
+        <a href="https://www.youtube.com/channel/UCIjA8mgo5_cgMRbFrK35PKQ"
+        target="_blank" id="a2">
+          <img src="images/youtube.png" height="30">
+        </a>
+        <a href="https://twitter.com/Jake_Samoyed"
+        target="_blank" id="a3">
+          <img src="images/twitter.png" height="23">
+        </a>
+      </div>
+    </footer>
+    <script defer type="text/javascript" src="JS/tcloser.js"></script>
+  </body>
+</html>

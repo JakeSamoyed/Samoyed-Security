@@ -2,11 +2,13 @@ Personal project, my first chrome extension.
 
 #               Samoyed Security
 
+### Basic Extension with simple security functions
+
 ## Features
 - Togglable Download Canceler > When toggled, automatically cancel any new downloads
   Improving
 - Blacklist Sites > Type out website URLs in the extension, then it will automatically close that site. /Whitelistable\
-  ###More in the future
+  ### More in the future
 
 ## How do I use this extension?
 - Download this Repository in a folder you can remember

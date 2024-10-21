@@ -1,11 +1,18 @@
 Personal project, my first chrome extension.
 
-It has basic security features: [
+#               Samoyed Security
 
-  Cancel any downloads then show the file that was about to be downloaded. (Can be Toggled) 
+##Features
+- Togglable Download Canceler > When toggled, automatically cancel any new downloads
+  Improving
+- Blacklist Sites > Type out website URLs in the extension, then it will automatically close that site. /Whitelistable\
+  ###More in the future
 
-  Close websites that are blacklisted by the user then notify the user with the URL.
-
-more in the future ]
-
-If you don't know how to import extensions and use them, read this document => https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world
+##How do I use this extension?
+- Download this Repository in a folder you can remember
+- Click the puzzle piece icon in the top right
+- Click "Manage Extensions" at the bottom
+- Turn on Developer Mode
+- Click "Load unpacked" at the top left
+- Import the downloaded repo
+- Documentation > https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked

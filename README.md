@@ -9,7 +9,8 @@ Open-Source Project I did to learn my first steps into Web Development.
   Improving
 - Blacklist Sites > Type out website URLs in the extension, then it will automatically close that site. /Whitelistable\
   ### In the future
-  - 
+  - Suspicious Websites Detection
+  - And more
 
 ## How do I use this extension?
 - Documentation > https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked

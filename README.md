@@ -8,6 +8,7 @@ Open-Source Project I did to learn my first steps into Web Development.
 - Togglable Download Canceler > When toggled, automatically cancel any new downloads
   Improving
 - Blacklist Sites > Type out website URLs in the extension, then it will automatically close that site. /Whitelistable\
+- Address Censoring > Censors Your Address when google shows it when you search specific topics, e.g "Results for "City/Country" Choose area"
   ### In the future
   - Suspicious Websites Detection
   - And more
